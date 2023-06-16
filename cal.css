@@ -1,0 +1,19 @@
+.cal{
+    height: 300px;
+    width: 300px;
+    border: 4px solid black;
+    position: relative;
+    /* background-color: white; */
+}
+#ans{
+    margin-top: 1%;
+    height: 20px;
+    width: fit-content;
+    border: 2px solid black;
+}
+#wait{
+    margin-top: 1%;
+    height: 20px;
+    width: fit-content;
+    border: 2px solid black;
+}
